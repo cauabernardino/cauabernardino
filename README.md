@@ -2,8 +2,8 @@
 
 ### I am Cauã Bernardino, an aerospace engineer and developer. 👨‍💻🛰🚀✈
 
-- 🌱 I’m currently learning: JavaScript, Node.js, Python (web scraping and pygame)
-- 🔭 I’m currently working on: [News Compiler](https://github.com/cauabernardino/newscompiler), CS50x Web, strengthen my C/C++ skills and my masters thesis 😁
+- 🌱 I’m currently learning: JavaScript, Node.js, Python and Bash scripting
+- 🔭 I’m currently working on: Strengthen my C/C++ and Linux skills, my masters thesis 😁
 - ⚡ Fun(?!) fact: I am a Control Systems Engineering masters student
 
 ### Knowledge
