@@ -2,8 +2,8 @@
 
 ### I am Cauã Bernardino, an aerospace engineer and developer. 👨‍💻🛰🚀✈
 
-- 🌱 I’m currently learning: JavaScript, Node.js, Python and Bash scripting
-- 🔭 I’m currently working on: Strengthen my C/C++ and Linux skills, my masters thesis 😁
+- 🌱 I’m currently learning: JavaScript (Node.js, React), Scripting in Python/Bash
+- 🔭 I’m currently working on: [Mars Mission](https://github.com/cauabernardino/mars_mission) and my masters thesis 😁
 - ⚡ Fun(?!) fact: I am a Control Systems Engineering masters student
 
 ### Knowledge
