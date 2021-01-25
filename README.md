@@ -2,8 +2,8 @@
 
 ### I am Cauã Bernardino, an aerospace engineer and developer. 👨‍💻🛰🚀✈
 
-- 🌱 I’m currently learning: JavaScript (Node.js, React), Scripting in Python/Bash
-- 🔭 I’m currently working on: [Mars Mission](https://github.com/cauabernardino/mars_mission) and my masters thesis 😁
+- 🌱 I’m currently learning: Deeping on APIs and web dev with Django and Django REST. Automation and Testings with Python and Bash.
+- 🔭 I’m currently working on: My masters thesis and study projects 😁
 - ⚡ Fun(?!) fact: I am a Control Systems Engineering masters student
 
 ### Knowledge
@@ -15,12 +15,10 @@
 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
 
 <!--
 ## Knowledge
-
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/fabioniglio/)](https://github.com/fabioniglio/)
-
 
 Here are some ideas to get you started:
 
