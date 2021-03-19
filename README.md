@@ -1,8 +1,8 @@
 ## Hey there! I am Cauã Bernardino, an aerospace engineer and developer. 👨‍💻🛰🚀✈
 
 <a href="https://github.com/cauabernardino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauabernardino&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cauabernardino&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauabernardino&show_icons=true&theme=onedark&include_all_commits=true&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cauabernardino&layout=compact&langs_count=8&theme=onedark&count_private=false"/>
 <div>
 
 
