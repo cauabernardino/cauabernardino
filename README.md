@@ -1,4 +1,4 @@
-### Hey there, I'm Cauã Bernardino! 👨‍💻🛰🚀
+### Hey there, I'm Cauã Bernardino! 
 
 
 <a href="https://github.com/cauabernardino">
