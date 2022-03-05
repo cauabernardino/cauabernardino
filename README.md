@@ -14,8 +14,8 @@
 [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=Elixir&logoColor=white&link=https://github.com/cauabernardino)](https://github.com/cauabernardino/)
 [![C](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=black&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&link=https://github.com/cauabernardino)](https://github.com/cauabernardino/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&color=F7DF1E&logoColor=black&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
-[![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5&color=E34F26&logoColor=white&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
+<!-- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&color=F7DF1E&logoColor=black&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/) -->
+<!-- [![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5&color=E34F26&logoColor=white&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/) -->
 [![MATLAB](https://img.shields.io/badge/-MATLAB-important?style=flat&logo=&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&color=FCC624&logoColor=black&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
