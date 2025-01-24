@@ -1,7 +1,7 @@
 ### Hey there, I'm Cauã Bernardino! 
 
-- 🔭 I’m currently working on automation, testing and developer tools, mostly with Python
-- 🌱 I’m currently learning (and enjoying) Rust and a bit of web development
+- 🔭 I’m currently working with Python development, CI/CD pipelines and platform automation
+- 🌱 I’m currently improving my skills in static typed languages, like Rust, C++ and Golang
 
 
 <a href="https://github.com/cauabernardino">
@@ -16,8 +16,8 @@
 [![Rust](https://img.shields.io/badge/-Rust-B7410E?style=flat&logo=Rust&logoColor=white&link=https://github.com/cauabernardino)](https://github.com/cauabernardino/)
 [![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=Elixir&logoColor=white&link=https://github.com/cauabernardino)](https://github.com/cauabernardino/)
 [![C](https://img.shields.io/badge/--A8B9CC?style=flat&logo=C&logoColor=black&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
-<!-- [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&link=https://github.com/cauabernardino)](https://github.com/cauabernardino/)
-[![MATLAB](https://img.shields.io/badge/-MATLAB-important?style=flat&logo=&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)-->
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&link=https://github.com/cauabernardino)](https://github.com/cauabernardino/)
+<!-- [![MATLAB](https://img.shields.io/badge/-MATLAB-important?style=flat&logo=&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)-->
 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&color=FCC624&logoColor=black&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
 [![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=GNU%20Bash&color=4EAA25&logoColor=white&link=https://github.com/cauabernardino/)](https://github.com/cauabernardino/)
