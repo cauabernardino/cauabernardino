@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/cauabernardino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauabernardino&show_icons=true&theme=onedark&include_all_commits=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauabernardino&show_icons=true&theme=onedark&include_all_commits=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cauabernardino&layout=compact&langs_count=8&theme=onedark&count_private=false"/>
 <div>
 
